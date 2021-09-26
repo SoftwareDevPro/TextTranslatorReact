@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro&display=swap');
+
+.app-header {
+  text-align: center;
+  padding: 40px;
+}
+
+.header {
+  font-family: 'Crimson Pro', monospace;
+  font-size: 40px;
+}
+
+.app-body {
+  padding: 60px;
+  text-align: center;
+}
+
+.detect-input-language {
+  height: 40px !important;
+  margin-bottom: 15px;
+}
+
+.language-select {
+  height: 40px !important;
+  margin-bottom: 15px;
+  outline: none !important;
+}
